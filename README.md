@@ -9,4 +9,8 @@ This is an independent Jupyter notebook where we want to predict **whether a cus
 2. Improving the success rate of the converting the prospect to customer
 
 # Gains Chart and Lorenz Curve
+
+### If we were to target the top 3 deciles {10, 9, 8} then we would captured 71% compared to 30% in a no model scenario
+
+### We can also design audience profiles and perform prioritze targeting to improve overall perfomance when compared to random selection of audience
 ![](https://github.com/devAmoghS/telemarketing-prediction-for-banking/blob/main/Gains%20Chart%20and%20Lorenz%20Curve.png)
