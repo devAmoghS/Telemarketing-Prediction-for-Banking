@@ -10,7 +10,18 @@ This is an independent Jupyter notebook where we want to predict **whether a cus
 
 # Gains Chart and Lorenz Curve
 
-### If we were to target the top 3 deciles {10, 9, 8} then we would captured 71% compared to 30% in a no model scenario
+1. `N` is the size of each of my deciles (10% of the original population).
+2. `Event Rate` and `Non Event Rate` will add upto 100%.
+3. `KS` is the difference between `Cum ECR` and `Cum NECR`. We want to check where it maximizes (yellow shaded cell).
+4.  In the `No Model Scenario`, we are taking the standard assumption that **each decile is only contributing to 10% event capture**. This will be useful for the baseline comparision
+5.  Hence, we can target the top 2 deciles to capture (Total Event Capture Rate => 46 +18 => 64%).
+6.  The maximum discrimantion is achieved in the top 2 deciles but we can also move upto the 3rd decile.
 
-### We can also design audience profiles and perform prioritze targeting to improve overall perfomance when compared to random selection of audience
+#### If we were to target the top 3 deciles {10, 9, 8} then we would captured 71% compared to 30% in a no model scenario
+
+#### We can also design audience profiles and perform prioritze targeting to improve overall perfomance when compared to random selection of audience
+
 ![](https://github.com/devAmoghS/telemarketing-prediction-for-banking/blob/main/Gains%20Chart%20and%20Lorenz%20Curve.png)
+
+#### TODO
+1. Audience Profile creation
