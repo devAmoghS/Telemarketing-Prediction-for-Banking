@@ -1,5 +1,12 @@
 # Telemarketing-Prediction-for-Banking
 
+## UPDATE:
+Please use the following link to open the notebook. 
+
+[Go to notebook](https://nbviewer.jupyter.org/github/devAmoghS/Telemarketing-Prediction-for-Banking/blob/main/telemarketing-campaigns-portugal-bank.ipynb)
+
+### There is some issue with the notebook viewer on Github
+
 ![](https://img.freepik.com/free-vector/call-center-flat-design-illustration_188398-200.jpg?size=626&ext=jpg)
 
 This is an independent Jupyter notebook where we want to predict **whether a customer will buy a term loan or not**
