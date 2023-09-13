@@ -12,9 +12,9 @@ Please use the following link to open the notebook.
 This is an independent Jupyter notebook where we want to predict **whether a customer will buy a term loan or not**
 
 # About the dataset
-It is a dataset that describing Portugal bank marketing campaigns results.
-Conducted campaigns were based mostly on direct phone calls, offering bank client to place a term deposit.
-If after all marketing efforts client had agreed to place deposit - target variable marked `yes`, otherwise `no`
+It is a dataset, describing the results of marketing campaigns run by a Portuguese bank.
+Conducted campaigns were based mostly on direct phone calls, offering clients to place a term deposit.
+If after all marketing efforts, client had agreed to place the deposit - target variable is marked `yes`, otherwise `no`
 
 # Tasks
 1. Reducing the costs of the marketing teams incurred during campaigns
